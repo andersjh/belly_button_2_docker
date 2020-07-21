@@ -1,0 +1,5 @@
+venv
+.dockerignore
+manage.py
+entrypoint.py
+__pycache__
